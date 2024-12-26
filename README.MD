@@ -73,7 +73,7 @@ To run this project on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/epileptic-seizure-detection.git
+   git clone https://github.com/AshutoshTiwari0/epileptic-seizure-detection.git
    cd epileptic-seizure-detection
 
 Install the required libraries: You can install the necessary dependencies using pip:
